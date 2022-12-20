@@ -1,0 +1,11 @@
+p.dashboard {
+	display: inline;
+}
+.dashboardBackground {
+	background-color: #53c07d;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap');
+h1,h2,h3,h4,h5,p,form{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
